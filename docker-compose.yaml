@@ -1,4 +1,4 @@
-name: devops-infra
+name: infra-devops
 services:
   gitlab:
     profiles: ['not-start']
